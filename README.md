@@ -1,3 +1,4 @@
+![netflix-background](https://github.com/aimanshahpuri/Netflix-clone/assets/125454433/69182db4-e0e4-4fe9-b728-5e80601a4517)
 
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
